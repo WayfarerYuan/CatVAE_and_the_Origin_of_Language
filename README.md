@@ -16,7 +16,7 @@ Here's a quick overview of what you can find in this repository:
 - A basic signal game that leverages the power of Transformer-based CatVAE.
 
 ### 🌐 Streamlit Web App
-- Experiment in realreal timeh a user-friendly Streamlit app. It is currently hosted on Hugging Face and is also embedded in my personal website.
+- Experiment in real-time on a user-friendly Streamlit web app. It is currently hosted on Hugging Face and is also embedded in my personal website.
 - Try it out [here](https://quanyuan.me/signal_game/).
 
 ## 🚀 Getting Started
