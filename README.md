@@ -27,6 +27,8 @@ To get started, clone this repo and follow the installation and usage guidelines
 git clone https://github.com/yourusername/CatVAE-and-the-Origin-of-Language.git
 \`\`\`
 
+Attention: All datasets are removed from this repo for simplicity.
+
 ## 📚 Further Reading
 
 For more in-depth insights and technical details, refer to my paper, Thanks!
